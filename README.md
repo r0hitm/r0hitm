@@ -1,28 +1,18 @@
 ### 👋 Hi there
 
-Hi, I'm Rohit! I'm a final year BSc (Hons) Electronics student with a fervor for computers and technology ever since high school.
-I have self-studied Computer Science through programs such as the [OSSU](https://github.com/ossu/computer-science) and [The Odin Project](https://theodinproject.com/),
-driven by my constant curiosity to experiment with and explore technology.
+I am Rohit Mehta, a computer scientist. I love to build things, automate boring & repetitive things, and I am constantly learning and challenging my technical skills. I can overcome any challenge with patience and perseverance.
 
-What I love most about this field is the unique combination of creativity and real-world problem-solving, which keeps me engaged
-and motivated. I also have an active technical blog at [devavatar.com](https://devavatar.com/), where I share insights into my 
-learning experiences and occasionally post tutorials. In my free time, I create games which I upload to [🎮 itch.io](https://avatar-hiro.itch.io/)
-for everyone to enjoy.
+Other than programming, I love anime, music and all things creative and artistic.
 
-### 🚀 Skills
+### 💪 Skills
 
-- **Programming Languages:** TypeScript, JavaScript, HTML5, CSS, Python
-- **Libraries & Frameworks:** React, Django, Flask, Tailwind CSS, Bootstrap
-- **Databases:** SQLite, Firebase, Appwrite
-- **Version Control:** Git, GitHub
-- **Operating Systems:** Linux, Windows
-- **Human Languages:** हिन्दी (native), English (bilingual), 日本語 (conversational)
+I don’t like to limit myself to a specific technology or language. But for those of you who like to see a list, here is a rundown in no particular order:
 
-### 📚 Learning
+- **Technical**: React, TypeScript/JavaScript, Node, Express, Python, Django, Flask, Git/GitHub, SQL, Firebase, Linux, Shell (PowerShell, Bash, Zsh), Docker, REST APIs etc.
+- **Tools**: VS Code, NeoVim, Obsidian, Figma, GIMP, Audacity, etc.
+- **Languages**: हिन्दी/Hindi (Native), English (Bilingual), 日本語/Japanese (Conversational) (Yes, I watch anime and read manga in Japanese!)
 
-I am currently focusing on expanding my knowledge in the following areas:
-- Discrete Mathematics
-- Data Structures & Algorithms
-- Backend Development
+📚 At the moment, I am learning discrete mathematics, algorithms, and data structures through The Algorithm Design Manual by Steven S. Skiena, MIT's Mathematics for Computer Science, and leetcode for practice.
 
-I am always excited to meet new people, learn new things, and tackle new and exciting challenges. Feel free to connect with me!
+---
+Feel free to reach out!
