@@ -1,18 +1,10 @@
-### 👋 Hi there
+### 👋 よ！ロヒトと申します / Yo! I'm Rohit
 
-I am Rohit Mehta, a computer scientist. I love to build things, automate boring & repetitive things, and I am constantly learning and challenging my technical skills. I can overcome any challenge with patience and perseverance.
+- 💻 **開発者です。** / Full-time Developer
+- 🚀 **Skills**: TypeScript/JavaScript, React, Next.js, Python, C, Git, Linux, Vim
+- 📚 **離散数学と DSA を学んでいる** / Learning Discrete Math & DSA
+- 🇯🇵 **日本語を勉強中**で、2024年12月に JLPT N3 を受験予定 / Currently studying Japanese, aiming to take the JLPT N3 in December 2024
+- 🗣️ **言語**: ヒンディー語 (ネイティブ)、英語 (バイリンガル)、日本語 (日常会話レベル) / **Languages**: Hindi (Native), English (Bilingual), Japanese (Conversational)
+- 🎮 **好きなもの**: アニメ、ゼルダの伝説、音楽、日本文化、かわいいもの / **Other things I like**: Anime, The Legend of Zelda, Music, Japanese Culture, Cute things
 
-Other than programming, I love anime, music and all things creative and artistic.
-
-### 💪 Skills
-
-I don’t like to limit myself to a specific technology or language. But for those of you who like to see a list, here is a rundown in no particular order:
-
-- **Technical**: React, TypeScript/JavaScript, Node, Express, Python, Django, Flask, Git/GitHub, SQL, Firebase, Linux, Shell (PowerShell, Bash, Zsh), Docker, REST APIs etc.
-- **Tools**: VS Code, NeoVim, Obsidian, Figma, GIMP, Audacity, etc.
-- **Languages**: हिन्दी/Hindi (Native), English (Bilingual), 日本語/Japanese (Conversational) (Yes, I watch anime and read manga in Japanese!)
-
-📚 At the moment, I am learning discrete mathematics, algorithms, and data structures through The Algorithm Design Manual by Steven S. Skiena, MIT's Mathematics for Computer Science, and leetcode for practice.
-
----
-Feel free to reach out!
+✨ ぜひ、連絡してね！/ Feel free to connect!
