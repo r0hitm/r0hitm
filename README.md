@@ -1,10 +1,20 @@
-### 👋 よ！ロヒトと申します / Yo! I'm Rohit
-
-- 💻 開発者です。 / Full-time Developer
-- 🚀 Skills: TypeScript/JavaScript, React, Next.js, Python, C, Git, Linux, Vim
-- 📚 離散数学と DSA を学んでいる / Learning Discrete Math & DSA
-- 🇯🇵 日本語を勉強中で、2024年12月に JLPT N3 を受験予定 / Currently studying Japanese, aiming to take the JLPT N3 in December 2024
-- 🗣️ 言語: ヒンディー語 (ネイティブ)、英語 (バイリンガル)、日本語 (日常会話レベル) / Languages: Hindi (Native), English (Bilingual), Japanese (Conversational)
-- 🎮 好きなもの: アニメ、ゼルダの伝説、音楽、日本文化、かわいいもの / Other things I like: Anime, The Legend of Zelda, Music, Japanese Culture, Cute things
-
-✨ ぜひ、連絡してね！/ Feel free to connect!
+### Introduction
+[English](#english) | [Jump to: 日本語](#ja)
+### <a name="english"></a>English
+* 👋 Hi, I'm Rohit
+* 💻 Full-time Developer
+* 🚀 Skills: TypeScript, React, Next.js, Python, C, Git, Linux, Vim
+* 📚 Working through Tim Roughgarden's Algorithms specialization
+* 🇯🇵 Immersing in japanese!
+* 🗣️ Languages: Hindi, English, Japanese
+* 🎮 Other things I like: Anime, The Legend of Zelda, Music, Japanese Culture, Cute things
+* ✨ Feel free to connect!
+### <a name="ja"></a>日本語
+* 👋 よ！ロヒトと申します
+* 💻 開発者です
+* 🚀 スキル: TypeScript, React, Next.js, Python, C, Git, Linux, Vim
+* 📚 ティム・ラフガーデンのアルゴリズム専門化を進めています
+* 🇯🇵 日本語に没頭しています！
+* 🗣️ 言語: ヒンディー語, 英語, 日本語
+* 🎮 好きなもの: アニメ、ゼルダの伝説、音楽、日本文化、かわいいもの
+* ✨ ぜひ、連絡してね！
